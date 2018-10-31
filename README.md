@@ -17,7 +17,7 @@ want CVP to take.
 
 If no keyword has been found, we simply play the response back to the caller and start the loop all over again.
 
-Disclaimer
+Disclaimer: 
 The code and examples presented above are only samples and are NOT guaranteed to be bug free and production quality.
 The sample applications are meant to:
 •	Illustrate how to use the relevant APIs and SDKs 
